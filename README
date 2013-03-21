@@ -15,4 +15,4 @@ Download hyperdex at http://hyperdex.org/download/
 Install hyperdex (make sure you have the dynamic libraries installed properly)
 
 -- INSTALL
-go get -u github.com/tiborvass/hyperclient
+go get -u github.com/gbyoung/hyperclient
